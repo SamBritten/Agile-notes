@@ -1,0 +1,188 @@
+Agile:
+ scrum.
+ Dynamic Systems Development Method - (DSDM).
+ Test Driven Development - (TDD).
+ Extreme Programming - (XP).
+ Lean.
+ Kanban.
+ SAFe.
+
+Essence:
+ Embrace change.
+ Iterative.
+ Empirical.
+ Incremental.
+ Self organising teams.
+ Empowered.
+ Fail fast.
+ Feedback.
+
+Agile Manifesto - 2001:
+
+	Individuals and interaction over processes and tools.
+	Working software over comprehensive documantation.
+	Customer collaboration over contract negotiation.
+	Responding to change over following a plan.
+
+12 agile principles.
+
+
+
+Scrum Framework:
+
+Product Backlog > Sprint Backlog > 2-4 weeks (24 hours) > Potentially shippable product increment.
+
+Scrum Elements:
+ Events:
+   Sprint
+   Sprint planning meeting.
+   Sprint review meeting.
+   Sprint retrospective meeting.
+   Daily Scrum.
+
+Sprint:
+ Time-based period of software development.
+ Container for other events.
+ One week to one month duration.
+ Always produces a potentially shippable product increment.
+
+Sprint Planning Meeting:
+ For scrum team to plan the sprint delivery.
+ Timeboxed to eight hours for a one month sprint.
+ Split into two parts: 'What' and 'How'.
+ Attendees: Product Owner
+	    Scrum Master
+	    Development Team
+
+Sprint Review Meeting:
+ Informal event held at the end of every sprint.
+ Four hour timebox for a one month sprint.
+ Attendees: Scrum Team
+	    Stakeholders invited by product owner
+ Output: revised product backlog.
+
+Sprint Retrospective Meeting:
+ Facilitated by scrum master to discuss:
+	What went right.
+	What went wrong.
+	What we could change.
+	Actions to be assigned.
+ Everyone should get the chance to air their views - (Open, Honest, Constructive).
+
+
+
+Daily Scrum:
+ Daily inspection and adaption event for the development team.
+ Scrum master ensures daily scrum occurs.
+ Same time, same place.
+ <15 minutes.
+ Often called a 'stand-up'.
+
+Scrum Artefacts:
+ Product backlog.
+ Sprint backlog.
+ Increment.
+
+Artefact - Product Backlog:
+ Ordered list of everythig that might be needed in the product.
+ Owned by product owner.
+ Refined by scrum team.
+ Developed by development team.
+ Can be on cards or held on computer, but visible to all.
+ Understandable to all Stakeholders.
+ Detailed appropriately, Estimated, Emergent, Prioritise - (DEEP).
+
+Artefact - Sprint Backlog;
+ List of tasks committed to be completed in the current sprint or iteration.
+ Team decides on the items and the time to complete them.
+ User stories are broken down into tasks.
+ 	As a <user>, I want <feature>, so that <explanation>.
+ Any team member can pick from tasks.
+ Property of the team.
+ Shown on the task board for all to see.
+
+Artefact - Increment:
+ 'Sum of the product backlog items completed during a sprint and the value of the increments of  	all previous sprints' - Scrum Guide.
+ 
+
+
+Role - Scrum Master:
+ Ensures the scrum process is followed and understod.
+ Removes impediments to enable the development team to be fully functional and productive.
+ No formal technical training.
+
+Role - Product Owner:
+ Owns the product backlog.
+ Defines the product backlog items.
+ Responsible for profitbilty - ROI.
+ Prioritises/orders backlog items.
+ Provides vision and boundaries.
+
+Role - Developer (Development Team):
+ Cross-functional - 3 to 9 people.
+ Organises itself and its work.
+ Dedicated.
+ 
+Scrum Values:
+ Courage.
+ Focus.
+ Commitment.
+ Respect.
+ Openness.
+
+Monitoring Progress:
+ measurement is for the development team.
+ Determine progress in the sprint.
+ Indicator of team performance.
+ Many techniques.
+
+velocity:
+ This is the amount of work the team is able to get done in one sprint.
+ Bases on experience from previous sprints (estimated for first few sprnts).
+ Can be measures in:
+	Ideal days.
+	Story points.
+ Helps improve estimation over length of project.
+
+Velocity is NOT capability.
+
+Capacity:
+ team size.
+ Sprint length.
+ Abscence. 
+
+Capability:
+ Know-how.
+ Impediments.
+
+Burndown Chart:
+ Daily feedback chart visible for all to see.
+ Information radiatior.
+ Measured in story points. 	
+ 
+Definition of Done.
+
+Definition of Ready.
+
+M - Must be included in next sprint.
+S - Should be included in next sprint.
+C - Could be included in next sprint.
+W - Won't be included in next sprint.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
